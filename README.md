@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Ritesh Pate <br> I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
 </h1>
 
 - 🌱 I’m currently learning and exploring Web Development.<br>
@@ -20,7 +20,7 @@
   <h2 align="center">🖐 Get in Touch</h2>
   <p align="center">
   <a href="https://linkedin.com/in/pratikabhang/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="pratikabhang" /></a>
-  <a href="https://pratikabhang.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
+  <a href="https://riteshpate.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
   <a href="mailto:pratikabhang.in@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="pratikabhang" /></a>
   </p>
   <br>
